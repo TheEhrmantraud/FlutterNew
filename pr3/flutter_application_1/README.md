@@ -20,3 +20,9 @@ Interceptor находится в отдельном файле
 Контроллер управляет загрузкой и коллекцией советов
 
 А теперь скриншоты:
+
+<img src="screenshots/214112.png" alt="Главный экран" width="220"> <img src="screenshots/214115.png" alt="Недавние советы" width="220"> <img src="screenshots/214118.png" alt="Избранное" width="220">
+
+<img src="screenshots/214123.png" alt="Поиск и сортировка" width="220"> <img src="screenshots/214125.png" alt="История" width="220"> <img src="screenshots/214128.png" alt="Очистка истории" width="220">
+
+<img src="screenshots/214131.png" alt="Пустая история" width="220"> <img src="screenshots/214145.png" alt="Новый совет" width="220"> <img src="screenshots/214147.png" alt="Тёмная тема" width="220">
